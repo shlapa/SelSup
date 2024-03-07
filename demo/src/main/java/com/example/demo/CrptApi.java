@@ -82,7 +82,6 @@ class Product {
     @JsonProperty("uitu_code")
     private String uituCode;
 }
-@Component
 class Document {
     @JsonProperty("doc_id")
     private String docId;
